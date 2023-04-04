@@ -1,4 +1,9 @@
-### **Módulo 1**
+# Quality - Treinamento
+
+ Repositório para armazenar os exercícios desenvolvidos durante treinamento do estágio Quality.
+
+---
+> ### **Módulo 1**
 ---
  ### Tópicos estudados
 - [ ] 1.1 - GIT
